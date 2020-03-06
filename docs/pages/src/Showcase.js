@@ -65,6 +65,13 @@ const data: Data[] = [
     android: 'https://play.google.com/store/apps/details?id=in.micy.tracksnz',
     ios: 'https://apps.apple.com/nz/app/tracks-nz/id1488245855',
   },
+  {
+    color: '#0065aa',
+    name: 'ToyBox',
+    image: 'showcase/toybox.png',
+    android: 'https://play.google.com/store/apps/details?id=com.toyz',
+    ios: 'http://itunes.apple.com/app/id1493408213',
+  },
 ];
 
 export default class Showcase extends React.Component<{}> {
